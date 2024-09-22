@@ -41,3 +41,62 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+flutter_*.jpg
+flutter_*.jpeg
+*.iml
+*.ipr
+*.iws
+
+# iOS specific
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcworkspace/xcuserdata/
+ios/Flutter/AppFrameworkInfo.plist
+
+# Android specific
+.android/
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+local.properties
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Miscellaneous
+*.DS_Store
+*.hprof
+*.class
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.exe
+*.o
+*.out
+*.class
+*.apk
+*.ap_
+*.DS_Store
+
+# Generated files
+pubspec.lock
