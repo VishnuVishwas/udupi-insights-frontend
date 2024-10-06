@@ -45,4 +45,4 @@ The Udupi Insights app offers users a seamless and interactive experience to exp
 - **REST API**: Integrated with a Flask backend for handling data management and synchronization with the server.
 
 ## Images Source
-Images used in the app are sourced from Google, Unsplash, Pexels.
+Images used in the app are sourced from Google, Unsplash, Pexels and Instagram.
